@@ -1,0 +1,15 @@
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/test_dummyDb.deps.json
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/test_dummyDb.runtimeconfig.json
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/test_dummyDb.runtimeconfig.dev.json
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/test_dummyDb.dll
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/test_dummyDb.pdb
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/dummyDb.dll
+/home/mm/dummyDb/test_dummyDb/bin/Debug/netcoreapp2.0/dummyDb.pdb
+/home/mm/dummyDb/test_dummyDb/obj/Debug/netcoreapp2.0/test_dummyDb.csproj.CoreCompileInputs.cache
+/home/mm/dummyDb/test_dummyDb/obj/Debug/netcoreapp2.0/test_dummyDb.AssemblyInfoInputs.cache
+/home/mm/dummyDb/test_dummyDb/obj/Debug/netcoreapp2.0/test_dummyDb.AssemblyInfo.cs
+/home/mm/dummyDb/test_dummyDb/obj/Debug/netcoreapp2.0/test_dummyDb.dll
+/home/mm/dummyDb/test_dummyDb/obj/Debug/netcoreapp2.0/test_dummyDb.pdb

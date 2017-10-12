@@ -1,0 +1,10 @@
+/home/mm/dummyDb/dummyDb/bin/Debug/netcoreapp2.0/dummyDb.deps.json
+/home/mm/dummyDb/dummyDb/bin/Debug/netcoreapp2.0/dummyDb.runtimeconfig.json
+/home/mm/dummyDb/dummyDb/bin/Debug/netcoreapp2.0/dummyDb.runtimeconfig.dev.json
+/home/mm/dummyDb/dummyDb/bin/Debug/netcoreapp2.0/dummyDb.dll
+/home/mm/dummyDb/dummyDb/bin/Debug/netcoreapp2.0/dummyDb.pdb
+/home/mm/dummyDb/dummyDb/obj/Debug/netcoreapp2.0/dummyDb.csproj.CoreCompileInputs.cache
+/home/mm/dummyDb/dummyDb/obj/Debug/netcoreapp2.0/dummyDb.AssemblyInfoInputs.cache
+/home/mm/dummyDb/dummyDb/obj/Debug/netcoreapp2.0/dummyDb.AssemblyInfo.cs
+/home/mm/dummyDb/dummyDb/obj/Debug/netcoreapp2.0/dummyDb.dll
+/home/mm/dummyDb/dummyDb/obj/Debug/netcoreapp2.0/dummyDb.pdb
